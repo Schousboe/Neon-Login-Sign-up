@@ -125,6 +125,14 @@
 .form-link:hover {
     text-shadow: 0 0 5px #00ffa2;
 }
+.form-link3 { 
+  display: block;
+text-align: center;
+margin-top: 15px; 
+color: #00ffa2;
+text-decoration: none; 
+font-size: 14px; 
+}
 
         .btn {
             display: inline-block;
